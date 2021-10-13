@@ -1,0 +1,17 @@
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\GenericStapelOef1.exe
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\GenericStapelOef1.deps.json
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\GenericStapelOef1.runtimeconfig.json
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\GenericStapelOef1.dll
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\ref\GenericStapelOef1.dll
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\bin\Debug\net6.0-windows\GenericStapelOef1.pdb
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.Form1.resources
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.csproj.GenerateResource.cache
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.AssemblyInfoInputs.cache
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.AssemblyInfo.cs
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.dll
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\ref\GenericStapelOef1.dll
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.pdb
+C:\Users\Gebruiker\source\repos\GenericStapelOef1\obj\Debug\net6.0-windows\GenericStapelOef1.genruntimeconfig.cache
